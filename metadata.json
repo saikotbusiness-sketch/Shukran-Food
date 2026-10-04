@@ -1,0 +1,6 @@
+{
+  "name": "Star Wholesale - Tamween B2B Oman",
+  "description": "B2B Wholesale Supermarket & Grocery Ordering Platform for Oman with WhatsApp Order Integration, Cash/Credit Invoicing, and Live Admin Developer Mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
